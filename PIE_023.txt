@@ -1,3 +1,4 @@
 Ceci est le fichier pour tester Git. Félicitations jeune padawan si tu parviens à lire ce message. Merci d'indiquer vos noms pour voir qui a commit :
 
 - Jean DEMUYNCK
+- Lucas BOYER
